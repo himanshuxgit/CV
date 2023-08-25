@@ -141,7 +141,7 @@ function App() {
           />
         </aside>
       </main>
-      <footer>Himanshu Kashyap @2023</footer>
+      <footer>&copy;CV Forge 2023</footer>
     </>
   );
 }
